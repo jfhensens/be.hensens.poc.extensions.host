@@ -1,0 +1,1 @@
+{"FullPath":"D:\\git\\AppMgmt\\AppMgmtSvc\\bin\\x64\\Release\\AppMgmtSvc.winmd","InProcServers":{"CLRHost.dll":{"Path":"CLRHost.dll","TypeToThreadingModel":{"AppMgmtSvc.Updater":"both"}}},"Namespaces":{"AppMgmtSvc.Updater":"AppMgmtSvc"},"RootNamespace":"AppMgmtSvc","AssemblyVersion":"15.0.28307.104"}

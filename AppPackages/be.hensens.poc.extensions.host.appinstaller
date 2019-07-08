@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="http://localhost:8080/be.hensens.poc.extensions.host.appinstaller" Version="1.0.22.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+  <MainBundle Name="be.hensens.poc.extensions.host" Version="1.0.22.0" Publisher="CN=SAP Mobile Infrabel" Uri="http://localhost:8080/be.hensens.poc.extensions.host_1.0.22.0_Test/be.hensens.poc.extensions.host_1.0.22.0_x64.appxbundle" />
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0" />
+  </UpdateSettings>
+</AppInstaller>

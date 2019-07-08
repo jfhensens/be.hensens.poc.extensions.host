@@ -1,0 +1,6 @@
+D:\git\be.hensens.poc.extensions.host\bin\Release\WinRTComponent.winmd
+D:\git\be.hensens.poc.extensions.host\bin\Release\WinRTComponent.pdb
+D:\git\be.hensens.poc.extensions.host\bin\Release\WinRTComponent.pri
+D:\git\be.hensens.poc.extensions.host\bld\Release\be.hensens.poc.extensions.host.jsprojAssemblyReference.cache
+D:\git\be.hensens.poc.extensions.host\bld\Release\be.hensens.poc.extensions.host.jsproj.CoreCompileInputs.cache
+D:\git\be.hensens.poc.extensions.host\bld\Release\be.hensens.poc.extensions.host.jsproj.CopyComplete

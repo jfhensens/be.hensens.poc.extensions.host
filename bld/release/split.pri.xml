@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="be.hensens.poc.extensions.host" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>256,16,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="index.html" uri="ms-resource://be.hensens.poc.extensions.host/Files/index.html">
+				<Candidate type="Path">
+					<Value>index.html</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="default.css" uri="ms-resource://be.hensens.poc.extensions.host/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://be.hensens.poc.extensions.host/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://be.hensens.poc.extensions.host/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://be.hensens.poc.extensions.host/Files/images/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square310x310Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://be.hensens.poc.extensions.host/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://be.hensens.poc.extensions.host/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://be.hensens.poc.extensions.host/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://be.hensens.poc.extensions.host/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="main.js" uri="ms-resource://be.hensens.poc.extensions.host/Files/js/main.js">
+					<Candidate type="Path">
+						<Value>js\main.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="lib">
+				<ResourceMapSubtree name="winjs-4.0.1">
+					<ResourceMapSubtree name="css">
+						<NamedResource name="ui-dark.css" uri="ms-resource://be.hensens.poc.extensions.host/Files/lib/winjs-4.0.1/css/ui-dark.css">
+							<Candidate type="Path">
+								<Value>lib\winjs-4.0.1\css\ui-dark.css</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ui-light.css" uri="ms-resource://be.hensens.poc.extensions.host/Files/lib/winjs-4.0.1/css/ui-light.css">
+							<Candidate type="Path">
+								<Value>lib\winjs-4.0.1\css\ui-light.css</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="fonts">
+						<NamedResource name="Symbols.ttf" uri="ms-resource://be.hensens.poc.extensions.host/Files/lib/winjs-4.0.1/fonts/Symbols.ttf">
+							<Candidate type="Path">
+								<Value>lib\winjs-4.0.1\fonts\Symbols.ttf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="js">
+						<NamedResource name="base.js" uri="ms-resource://be.hensens.poc.extensions.host/Files/lib/winjs-4.0.1/js/base.js">
+							<Candidate type="Path">
+								<Value>lib\winjs-4.0.1\js\base.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ui.js" uri="ms-resource://be.hensens.poc.extensions.host/Files/lib/winjs-4.0.1/js/ui.js">
+							<Candidate type="Path">
+								<Value>lib\winjs-4.0.1\js\ui.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

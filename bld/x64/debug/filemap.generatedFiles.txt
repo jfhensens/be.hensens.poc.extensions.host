@@ -1,0 +1,10 @@
+bld\x64\Debug\filemap.pri
+bld\x64\Debug\filemap.map.txt
+bld\x64\Debug\filemap.scale-100.pri
+bld\x64\Debug\filemap.scale-100.map.txt
+bld\x64\Debug\filemap.scale-125.pri
+bld\x64\Debug\filemap.scale-125.map.txt
+bld\x64\Debug\filemap.scale-150.pri
+bld\x64\Debug\filemap.scale-150.map.txt
+bld\x64\Debug\filemap.scale-400.pri
+bld\x64\Debug\filemap.scale-400.map.txt

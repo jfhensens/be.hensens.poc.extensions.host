@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PO160002893</Machine>
+    <WindowsUser>KMK7700</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8bf7c6e3-1bdd-4663-a38f-2c1407f19f15</PackageIdentityName>
+    <PackageIdentityPublisher>CN=SAP Mobile Infrabel</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\git\be.hensens.poc.extensions.host\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>D:\git\be.hensens.poc.extensions.host\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>B97B16BD33A3377E16BAD30CAFFD5B6EF44FA7F40F3D216873C6A747BDDF64FE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>be.hensens.poc.extensions.host_1.0.4.0_neutral__r43v75rztrk40</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>be.hensens.poc.extensions.host_r43v75rztrk40!data.consumer</RegisteredUserModeAppID>
+    <RegisteredPackageID>be.hensens.poc.extensions.host</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=SAP Mobile Infrabel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.4.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\git\be.hensens.poc.extensions.host\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-07-01T10:51:55.935</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\LargeTile.scale-100.png">
+      <PackagePath>images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:10.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\LargeTile.scale-125.png">
+      <PackagePath>images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:10.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\LargeTile.scale-150.png">
+      <PackagePath>images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:10.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\LargeTile.scale-200.png">
+      <PackagePath>images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:10.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\LargeTile.scale-400.png">
+      <PackagePath>images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:11.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SmallTile.scale-100.png">
+      <PackagePath>images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:07.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SmallTile.scale-125.png">
+      <PackagePath>images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:08.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SmallTile.scale-150.png">
+      <PackagePath>images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:08.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SmallTile.scale-200.png">
+      <PackagePath>images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:08.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SmallTile.scale-400.png">
+      <PackagePath>images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:08.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SplashScreen.png">
+      <PackagePath>images\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:07:00.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:13.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SplashScreen.scale-125.png">
+      <PackagePath>images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:13.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SplashScreen.scale-150.png">
+      <PackagePath>images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:13.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SplashScreen.scale-400.png">
+      <PackagePath>images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:14.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square150x150Logo.png">
+      <PackagePath>images\Square150x150Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T07:42:25.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:08.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square150x150Logo.scale-125.png">
+      <PackagePath>images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:08.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square150x150Logo.scale-150.png">
+      <PackagePath>images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:08.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square150x150Logo.scale-400.png">
+      <PackagePath>images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:08.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:12.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:13.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:12.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:12.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.png">
+      <PackagePath>images\Square44x44Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T07:44:26.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:11.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.scale-125.png">
+      <PackagePath>images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:11.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.scale-150.png">
+      <PackagePath>images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:11.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.scale-400.png">
+      <PackagePath>images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:11.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:11.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:11.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:12.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:11.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:12.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:15.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\StoreLogo.scale-125.png">
+      <PackagePath>images\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:15.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\StoreLogo.scale-150.png">
+      <PackagePath>images\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:15.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\StoreLogo.scale-200.png">
+      <PackagePath>images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:15.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\StoreLogo.scale-400.png">
+      <PackagePath>images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:15.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\WideTile.scale-100.png">
+      <PackagePath>images\WideTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:08.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\WideTile.scale-125.png">
+      <PackagePath>images\WideTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:09.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\WideTile.scale-150.png">
+      <PackagePath>images\WideTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:09.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\WideTile.scale-200.png">
+      <PackagePath>images\WideTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:09.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\WideTile.scale-400.png">
+      <PackagePath>images\WideTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:09.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-06-17T08:47:22.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:14.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:08.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:11.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-27T13:04:12.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2019-06-17T08:47:22.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2019-06-27T12:30:02.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2019-07-01T10:37:44.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2019-06-17T08:47:22.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2019-06-17T08:47:22.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2019-06-26T13:43:52.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2019-06-17T08:47:22.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2019-06-17T08:47:22.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2019-06-17T08:47:22.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\be.hensens.poc.extensions.host\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-07-01T10:51:55.722</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

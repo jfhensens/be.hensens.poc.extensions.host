@@ -1,0 +1,7 @@
+[Files]
+"be.hensens.poc.extensions.host_1.0.19.0_x64.appx" "be.hensens.poc.extensions.host_1.0.19.0_x64.appx"
+"be.hensens.poc.extensions.host_1.0.19.0_scale-100.appx" "be.hensens.poc.extensions.host_1.0.19.0_scale-100.appx"
+"be.hensens.poc.extensions.host_1.0.19.0_scale-400.appx" "be.hensens.poc.extensions.host_1.0.19.0_scale-400.appx"
+
+[ExternalPackages]
+"D:\git\AppMgmt\AppMgmt\AppPackages\AppMgmt_1.0.2.0_x64_Test\AppMgmt_1.0.2.0_x64.msix" "AppMgmt_1.0.2.0_x64.msix"

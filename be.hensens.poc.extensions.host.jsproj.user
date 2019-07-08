@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <Source>D:\Users\kmk7700\Pictures\logo.png</Source>
+    <SmallTileSource>D:\Users\kmk7700\Pictures\logo.png</SmallTileSource>
+    <MediumTileSource>D:\Users\kmk7700\Pictures\logo.png</MediumTileSource>
+    <WideTileSource>D:\Users\kmk7700\Pictures\logo.png</WideTileSource>
+    <LargeTileSource>D:\Users\kmk7700\Pictures\logo.png</LargeTileSource>
+    <AppIconSource>D:\Users\kmk7700\Pictures\logo.png</AppIconSource>
+    <SplashScreenSource>D:\Users\kmk7700\Pictures\logo.png</SplashScreenSource>
+    <PackageLogoSource>D:\Users\kmk7700\Pictures\logo.png</PackageLogoSource>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)|$(UseDotNetNativeToolchain)'=='Release|x64|true'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DebuggerType>Script</DebuggerType>
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

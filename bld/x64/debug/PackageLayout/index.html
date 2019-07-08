@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>PoC - UWP App Extensions (Host)</title>
+    <link href="lib/winjs-4.0.1/css/ui-light.css" rel="stylesheet" />
+    <script src="lib/winjs-4.0.1/js/base.js"></script>
+    <script src="lib/winjs-4.0.1/js/ui.js"></script>
+    <link href="css/default.css" rel="stylesheet" />
+    <script src="js/hellper.js"></script>
+    <script src="js/main.js"></script>
+</head>
+<body class="win-type-body">
+    <div id="eventLogTemplate"
+         data-win-control="WinJS.Binding.Template">
+        <div class="wrapper">
+            <div class="cellTimeCreated" 
+                 data-win-bind="innerText: timeCreated"></div>
+            <div class="cellData" 
+                 data-win-bind="innerText: data"></div>
+        </div>
+    </div>
+
+    <table style="width: 100%">
+        <thead>
+            <tr>
+                <td>
+                    <button id="check-button" class="win-button">Check</button>
+                    <button id="update-button" class="win-button">Update</button>
+                    <button id="sync-button" class="win-button">Sync</button>
+                </td>
+            </tr>
+        </thead>
+        <tr>
+            <td>
+                <div id="eventLogListView"
+                    style="width: 100%;"
+                    data-win-control="WinJS.UI.ListView"
+                    data-win-options="{
+                        itemDataSource: Hellper.EventLog.entries.dataSource,
+                        itemTemplate: select('#eventLogTemplate'),
+                        layout: {type: WinJS.UI.ListLayout},
+                        oniteminvoked: Hellper.EventLog.hightlight
+                    }">
+                </div>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
